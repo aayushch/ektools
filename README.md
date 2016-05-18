@@ -1,5 +1,5 @@
 # ektools
-- Migrating EKU settings for a specific profile
+## Migrating EKU settings for a specific profile
 - 1. Copy ekexport.bat to the system where EKU is configured.
 - 2. Export the settings for a profile: ekexport.bat <profile>
 - 3. This will export the settings to a <profile>.reg file.
